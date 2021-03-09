@@ -1,1 +1,1 @@
-# Demo
+# Sample Application
